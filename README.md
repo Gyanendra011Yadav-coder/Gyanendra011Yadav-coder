@@ -20,7 +20,8 @@
 -->***[Linked In:@Gyanendra Yadav](https://www.linkedin.com/in/gyanendra-yadav-8ba1541ab/) ::::::::::
       [Instagram: @yadav_gyan.10](https://www.instagram.com/yadav_gyan.10/) ::::::::::
       [FaceBook:@ Yadav Gyanu Real King](https://www.facebook.com/gyanu.yadav.1042) ::::::::::
-      [Twitter : @GyanuYadav18](https://twitter.com/GyanuYadav18)***
+      [Twitter : @GyanuYadav18](https://twitter.com/GyanuYadav18) ::::::::::
+      [You Tube: tech gy](https://www.youtube.com/channel/UCU0BsX3tioHL2wyvfD0i8zw)***
       
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gyanendra011Yadav-coder&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&langs_count=5&theme=tokyonight)]()
