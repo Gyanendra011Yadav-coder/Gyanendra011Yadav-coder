@@ -1,4 +1,8 @@
-### Hi there 👋
+val name="GYANENDRA YADAV"
+### Hi there👋, My Self println("$(name)")
+
+String name="Gyan"
+System.out.println("You Can Call Me:-"+name);
 
 <img src ![image](https://user-images.githubusercontent.com/68587190/125676762-d67241c0-380b-423a-a305-9e1e4fbfc9d3.png)>
 
