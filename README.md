@@ -1,13 +1,13 @@
-val name="GYANENDRA YADAV"
+## val name="GYANENDRA YADAV"
 ### Hi there👋, My Self println("$(name)")
 
-String name="Gyan"
+## String name="Gyan"
 
-System.out.println("You Can Call Me:-"+name);
+## System.out.println("You Can Call Me:-"+name);
 
 <img src ![image](https://user-images.githubusercontent.com/68587190/125676762-d67241c0-380b-423a-a305-9e1e4fbfc9d3.png)>
 
-
+## I'm a Student, Developer, And Teacher
 - 🔭 I’m currently working on Android Application Development with Kotlin And EDA(Exploratory Data Analysis)
 - 🌱 I’m currently learning Kotlin And Machine Learning
 - 👯 I’m looking to collaborate on Project Of Android Development Using KOTLIN
@@ -15,7 +15,7 @@ System.out.println("You Can Call Me:-"+name);
 - 💬 Ask me about Java/Kotlin/Python/SQL or any Tech Related Queries 
 - 📫 How to reach me: gyanendra1018yadav@gmail.com // gyanendra.yadav_cs19@gla.ac.in // gyanu011yadav@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Can Make You Laugh, Even In Your Mood Off Situation by My Singing With Guitar
+- ⚡ Fun fact:I LOVE TO PLAY GUITAR AND FLUTE.
 
 -->***[Linked In:@Gyanendra Yadav](https://www.linkedin.com/in/gyanendra-yadav-8ba1541ab/) ::::::::::
       [Instagram: @yadav_gyan.10](https://www.instagram.com/yadav_gyan.10/) ::::::::::
