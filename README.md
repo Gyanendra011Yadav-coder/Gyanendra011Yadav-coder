@@ -4,8 +4,8 @@
 
 ## You Can Call Me "Gyan"
 
-<img src 
-     ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjugF1LMsem9SNt-CCLDodwLKCURx05Yn4Q&usqp=CAU)>
+[image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjugF1LMsem9SNt-CCLDodwLKCURx05Yn4Q&usqp=CAU)
+     
 
 ## I'm a Student, Developer, And Teacher
 - 🔭 I’m currently working on Android Application Development with Kotlin And EDA(Exploratory Data Analysis)
