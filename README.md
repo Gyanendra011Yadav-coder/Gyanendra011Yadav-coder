@@ -1,4 +1,4 @@
-# HARD-WORK->BELIVER ?NOT?->mIRACLES #
+# HARD-WORK->BELIVER ?NOT?->MIRACLES #
 ## Hi there👋, My Self "GYANENDRA YADAV"
 
 
