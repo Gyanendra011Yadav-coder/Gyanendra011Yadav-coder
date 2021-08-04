@@ -27,8 +27,7 @@
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gyanendra011Yadav-coder&count_private=true&theme=maroongold&showicons=true)]()
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&hide=python&theme=yeblu )](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&layout=compact&hide=python&theme=kacho_ga )](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyanendra011Yadav-coder&repo=github-readme-stats)](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyanendra011Yadav-coder&repo=github-readme-stats)]
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=blue-green )](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
