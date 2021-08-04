@@ -23,7 +23,7 @@
       [You Tube: tech gy](https://www.youtube.com/channel/UCU0BsX3tioHL2wyvfD0i8zw)***
       
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gyanendra011Yadav-coder&count_private=true&theme=maroongold&showicons=true)]()
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&hide=python&theme=chartreuse-dark)](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&hide=python&theme=yeblu )](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&layout=gradient&hide=python&theme=midnight-purple)](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
 
 
