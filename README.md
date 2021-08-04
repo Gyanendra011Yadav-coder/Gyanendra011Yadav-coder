@@ -1,9 +1,8 @@
-## val name="GYANENDRA YADAV"
-## Hi there👋, My Self println("$(name)")
+####I_BELIEVE_IN_HARD-WORK_NOT_IN_MAGIC###
+## Hi there👋, My Self "GYANENDRA YADAV"
 
-## String name="Gyan"
 
-## System.out.println("You Can Call Me:-"+name);
+## You Can Call Me "Gyan"
 
 <img src ![image](https://user-images.githubusercontent.com/68587190/125676762-d67241c0-380b-423a-a305-9e1e4fbfc9d3.png)>
 
