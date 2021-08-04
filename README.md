@@ -25,5 +25,6 @@
       
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gyanendra011Yadav-coder&count_private=true&theme=tokyonight&showicons=true)]()
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&hide=python&theme=tokyonight)](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&layout=compact)](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
 
 
