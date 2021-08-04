@@ -5,7 +5,7 @@
 ## You Can Call Me "Gyan"
 
 <img src 
-     ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjugF1LMsem9SNt-CCLDodwLKCURx05Yn4Q&usqp=CAU" >
+     ="https://wallpapercave.com/wp/wp1828903.png" >
      
 
 ## I'm a Student, Developer, And Teacher
