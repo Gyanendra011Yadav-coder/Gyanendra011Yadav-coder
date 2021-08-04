@@ -24,6 +24,7 @@
       
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gyanendra011Yadav-coder&count_private=true&theme=maroongold&showicons=true)]()
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&hide=python&theme=yeblu )](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra011Yadav-coder&layout=compact&hide=python&theme=yeblu )](https://github.com/Gyanendra011Yadav-coder/github-readme-stats)
 
 
 
