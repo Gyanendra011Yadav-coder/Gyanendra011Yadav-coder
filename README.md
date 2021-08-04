@@ -1,6 +1,6 @@
 # HARD-WORK->BELIVER ?NOT?->MIRACLES #
-## Hi there👋, My Self "GYANENDRA YADAV"
-
+## Hi there👋,GYANENDRA here,
+                              WELCOMES,YOU TO MY PROFILE
 
 ## You Can Call Me "Gyan"
 
