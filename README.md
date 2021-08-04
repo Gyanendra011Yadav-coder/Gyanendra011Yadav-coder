@@ -1,8 +1,8 @@
-# HARD-WORK->BELIVER ?NOT?->MIRACLES #
+# HARD-WORK->BELIVER               ?NOT?->MIRACLES 
 ## Hi there👋,GYANENDRA here,
-                              WELCOMES,YOU TO MY PROFILE
+                                    WELCOMES,YOU TO MY PROFILE
 
-## You Can Call Me "Gyan"
+## You Can Call Me Gyan
 
 <img src 
      ="https://wallpapercave.com/wp/wp1828903.png" >
