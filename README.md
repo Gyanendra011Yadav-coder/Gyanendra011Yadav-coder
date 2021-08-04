@@ -2,7 +2,7 @@
 ## Hi there👋,GYANENDRA here,
                                     WELCOMES,YOU TO MY PROFILE
 
-## You Can Call Me GYAN <img src ="https://unicode.org/emoji/charts/full-emoji-list.html#1f604">
+## You Can Call Me GYAN <img src =":blush:">
 
 <img src 
      ="https://wallpapercave.com/wp/wp1828903.png" >
