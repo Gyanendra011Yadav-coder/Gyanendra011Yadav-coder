@@ -4,7 +4,7 @@
 
 ## You Can Call Me "Gyan"
 
-[image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjugF1LMsem9SNt-CCLDodwLKCURx05Yn4Q&usqp=CAU)
+<image [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjugF1LMsem9SNt-CCLDodwLKCURx05Yn4Q&usqp=CAU)/>
      
 
 ## I'm a Student, Developer, And Teacher
