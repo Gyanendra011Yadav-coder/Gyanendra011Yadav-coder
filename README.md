@@ -2,7 +2,7 @@
 ## Hi there👋,GYANENDRA here,
                                     WELCOMES,YOU TO MY PROFILE
 
-## You Can Call Me GYAN <img src "">
+## You Can Call Me GYAN 
 
 <img src 
      ="https://wallpapercave.com/wp/wp1828903.png" >
